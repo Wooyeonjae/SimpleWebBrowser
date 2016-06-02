@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleWebBrowser</string>
+    <string name="app_name">연재의 WebBrowser</string>
     <string name="but_move_str">이동</string>
-    <string name="but_prev_str">이동</string>
+    <string name="but_prev_str">이전</string>
 </resources>
